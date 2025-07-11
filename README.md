@@ -4,15 +4,15 @@ This project is focused on detecting sign language using machine learning techni
 
 ## ⭐ Project Structure
 
-- `data/`: Contains the datasets used for training and testing the model.
-- `src/`: Source code for the project.
+- `datacollection.py`: Used to collect the datasets used for training and testing the model.
+- `test.py`: Source code for the project.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 
 ## ⭐ Getting Started
 
 1. Clone the repository.
 2. Ensure you have the necessary dependencies installed.
-3. Run the main script to start the detection process.
+3. Run the test.py script to start the detection process.
 
 ## ⭐ Contributing
 
